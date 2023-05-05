@@ -2,13 +2,6 @@
 I modified the following Github Repository from Tycho van der Ouderaa (2016) to conduct my research on DQN generalization for my Neuro 140 Final Project.
 
 
-# PacmanDQN
-Deep Reinforcement Learning in Pac-man
-
-## Demo
-
-[![Demo](https://github.com/tychovdo/PacmanDQN/blob/master/videos/PacmanDQN_wingif.gif)](https://youtu.be/QilHGSYbjDQ)
-
 ## Example usage
 
 Run a model on `smallGrid` layout for 6000 episodes, of which 5000 episodes
