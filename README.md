@@ -1,3 +1,7 @@
+# Neuro 140 Final Project
+I modified the following Github Repository from Tycho van der Ouderaa (2016) to conduct my research on DQN generalization for my Neuro 140 Final Project.
+
+
 # PacmanDQN
 Deep Reinforcement Learning in Pac-man
 
